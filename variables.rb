@@ -9,3 +9,7 @@ float_2 = 1.618
 
 bool_1 = true
 bool_2 = false
+
+string_1 = "Howdy World"
+string_2 = "How ya'll doooin?"
+
