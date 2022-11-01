@@ -4,3 +4,6 @@ string_2 = " World"
 int_1 = 1
 int_2 = 2
 
+float_1 = 3.14
+float_2 = 1.618
+
