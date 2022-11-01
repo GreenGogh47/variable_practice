@@ -13,3 +13,8 @@ bool_2 = false
 string_1 = "Howdy World"
 string_2 = "How ya'll doooin?"
 
+puts string_1
+puts string_2
+puts float_2
+puts int_1
+
